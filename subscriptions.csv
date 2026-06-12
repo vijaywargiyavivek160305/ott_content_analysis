@@ -1,0 +1,101 @@
+sub_id,user_id,plan_type,start_date,end_date,monthly_fee,payment_method,status
+1,1,Basic,2024-07-12,2025-06-29,99.0,PayPal,active
+2,2,Basic,2022-10-21,2025-04-23,99.0,Debit Card,active
+3,3,Basic,2021-06-11,2025-08-27,99.0,Credit Card,active
+4,4,Basic,2022-07-23,2024-12-10,99.0,Wallet,active
+5,5,Standard,2024-02-12,2024-05-13,199.0,Debit Card,expired
+6,6,Premium,2021-08-16,2025-09-16,349.0,Debit Card,active
+7,7,Basic,2022-07-24,2024-12-14,99.0,Debit Card,active
+8,8,Premium,2022-06-06,2025-04-23,349.0,Credit Card,active
+9,9,Premium,2022-11-30,2025-12-28,349.0,UPI,active
+10,10,Basic,2024-03-01,2024-04-10,99.0,Credit Card,cancelled
+11,11,Standard,2021-11-07,2025-12-13,199.0,Credit Card,active
+12,12,Standard,2022-04-06,2025-06-17,199.0,Debit Card,active
+13,13,Premium,2021-12-09,2022-06-19,349.0,Credit Card,cancelled
+14,14,Basic,2021-03-10,2025-12-13,99.0,UPI,active
+15,15,Basic,2022-07-30,2025-11-26,99.0,UPI,active
+16,16,Basic,2023-08-31,2025-02-11,99.0,UPI,active
+17,17,Premium,2021-05-29,2024-04-01,349.0,Debit Card,expired
+18,18,Basic,2024-01-09,2025-01-16,99.0,Credit Card,active
+19,19,Basic,2022-07-17,2025-08-27,99.0,Debit Card,active
+20,20,Basic,2023-11-24,2024-03-21,99.0,Net Banking,cancelled
+21,21,Standard,2024-01-18,2024-05-09,199.0,Credit Card,expired
+22,22,Basic,2024-07-04,2025-02-11,99.0,Net Banking,active
+23,23,Standard,2022-09-25,2025-06-05,199.0,Wallet,active
+24,24,Standard,2022-01-03,2023-12-12,199.0,Debit Card,expired
+25,25,Premium,2023-06-03,2025-05-15,349.0,Credit Card,active
+26,26,Premium,2023-09-02,2024-05-12,349.0,Net Banking,expired
+27,27,Premium,2021-08-10,2025-05-12,349.0,Credit Card,active
+28,28,Premium,2022-06-16,2025-10-11,349.0,Net Banking,active
+29,29,Standard,2023-03-05,2024-05-25,199.0,Credit Card,expired
+30,30,Premium,2021-08-16,2022-07-13,349.0,Credit Card,expired
+31,31,Basic,2024-03-10,2025-11-25,99.0,Wallet,active
+32,32,Standard,2024-03-02,2024-06-12,199.0,Credit Card,expired
+33,33,Standard,2024-02-16,2025-10-10,199.0,Credit Card,active
+34,34,Premium,2022-08-09,2025-08-12,349.0,Credit Card,active
+35,35,Basic,2022-09-01,2025-05-27,99.0,Wallet,active
+36,36,Standard,2023-03-01,2025-01-15,199.0,Net Banking,active
+37,37,Basic,2021-05-29,2025-05-21,99.0,Debit Card,active
+38,38,Basic,2024-04-02,2025-11-20,99.0,Credit Card,active
+39,39,Premium,2024-02-01,2024-06-02,349.0,Credit Card,expired
+40,40,Standard,2022-12-02,2025-07-03,199.0,Wallet,active
+41,41,Basic,2024-01-27,2025-06-12,99.0,Debit Card,active
+42,42,Premium,2021-10-17,2025-08-03,349.0,Net Banking,active
+43,43,Premium,2022-12-11,2023-08-28,349.0,Credit Card,expired
+44,44,Standard,2021-06-19,2021-09-25,199.0,Credit Card,expired
+45,45,Premium,2021-04-03,2025-01-23,349.0,Credit Card,active
+46,46,Standard,2023-09-02,2023-12-23,199.0,UPI,expired
+47,47,Standard,2024-06-11,2024-07-07,199.0,Debit Card,cancelled
+48,48,Standard,2022-10-20,2022-12-20,199.0,Debit Card,expired
+49,49,Basic,2022-06-02,2025-07-11,99.0,Credit Card,active
+50,50,Standard,2022-12-16,2025-03-08,199.0,Debit Card,active
+51,51,Premium,2023-05-28,2024-03-29,349.0,Credit Card,expired
+52,52,Basic,2023-06-20,2025-01-19,99.0,Credit Card,active
+53,53,Standard,2023-08-29,2025-08-09,199.0,Credit Card,active
+54,54,Basic,2023-07-24,2025-01-14,99.0,Credit Card,active
+55,55,Basic,2022-11-18,2025-08-03,99.0,Credit Card,active
+56,56,Standard,2022-07-20,2025-10-23,199.0,Credit Card,active
+57,57,Standard,2022-05-10,2025-01-29,199.0,Debit Card,active
+58,58,Standard,2023-04-21,2025-11-04,199.0,Credit Card,active
+59,59,Basic,2024-02-22,2025-03-05,99.0,Debit Card,active
+60,60,Basic,2022-02-11,2025-07-17,99.0,Credit Card,active
+61,61,Premium,2024-05-06,2025-03-26,349.0,Net Banking,active
+62,62,Basic,2023-01-28,2025-12-21,99.0,UPI,active
+63,63,Standard,2021-09-19,2025-05-26,199.0,Net Banking,active
+64,64,Basic,2023-07-05,2024-05-16,99.0,Credit Card,cancelled
+65,65,Standard,2023-04-02,2024-06-24,199.0,Debit Card,expired
+66,66,Premium,2021-07-24,2025-08-01,349.0,UPI,active
+67,67,Premium,2022-04-15,2025-01-10,349.0,Debit Card,active
+68,68,Standard,2022-10-15,2024-04-11,199.0,UPI,expired
+69,69,Basic,2022-03-25,2024-03-17,99.0,Wallet,expired
+70,70,Standard,2023-04-21,2025-12-23,199.0,Debit Card,active
+71,71,Basic,2023-08-18,2023-12-19,99.0,Net Banking,cancelled
+72,72,Standard,2022-02-14,2025-01-10,199.0,Wallet,active
+73,73,Basic,2021-06-09,2025-10-18,99.0,Credit Card,active
+74,74,Standard,2023-09-06,2025-12-08,199.0,PayPal,active
+75,75,Standard,2021-06-16,2025-09-11,199.0,Debit Card,active
+76,76,Standard,2024-04-03,2024-06-05,199.0,Debit Card,expired
+77,77,Standard,2023-12-26,2025-11-24,199.0,UPI,active
+78,78,Standard,2021-07-22,2022-04-08,199.0,Debit Card,expired
+79,79,Basic,2023-10-16,2025-09-25,99.0,Net Banking,active
+80,80,Premium,2021-09-25,2025-01-24,349.0,UPI,active
+81,81,Standard,2023-08-08,2024-06-07,199.0,PayPal,expired
+82,82,Basic,2021-05-14,2025-06-15,99.0,UPI,active
+83,83,Premium,2021-03-19,2024-12-20,349.0,Credit Card,active
+84,84,Basic,2023-04-28,2025-10-08,99.0,UPI,active
+85,85,Standard,2022-09-02,2025-05-19,199.0,UPI,active
+86,86,Basic,2021-10-25,2024-06-23,99.0,Credit Card,expired
+87,87,Basic,2023-05-11,2025-05-05,99.0,Debit Card,active
+88,88,Standard,2024-05-13,2025-11-22,199.0,UPI,active
+89,89,Standard,2022-12-09,2025-05-03,199.0,Wallet,active
+90,90,Standard,2022-05-19,2023-05-12,199.0,Credit Card,expired
+91,91,Basic,2023-03-05,2025-01-15,99.0,Credit Card,active
+92,92,Basic,2024-04-29,2024-08-26,99.0,UPI,cancelled
+93,93,Standard,2021-11-16,2025-06-10,199.0,Net Banking,active
+94,94,Standard,2023-04-11,2023-06-13,199.0,Debit Card,expired
+95,95,Premium,2023-10-13,2025-08-26,349.0,PayPal,active
+96,96,Standard,2022-04-11,2025-03-13,199.0,Net Banking,active
+97,97,Premium,2022-09-13,2024-12-26,349.0,PayPal,active
+98,98,Basic,2021-11-17,2025-06-07,99.0,Net Banking,active
+99,99,Premium,2024-06-18,2025-02-02,349.0,UPI,active
+100,100,Standard,2022-06-12,2025-10-01,199.0,Debit Card,active

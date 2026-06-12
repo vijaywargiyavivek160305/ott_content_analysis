@@ -1,0 +1,151 @@
+rating_id,user_id,content_id,stars,review,rated_on
+1,38,48,4,Loved the characters.,2024-09-19
+2,32,21,5,Must watch!,2024-08-30
+3,47,8,5,Incredible storyline.,2024-10-17
+4,24,44,1,Couldn't finish it.,2022-02-17
+5,91,14,3,Decent watch.,2024-05-14
+6,53,44,5,Masterpiece.,2024-04-23
+7,31,17,3,Nothing special.,2024-05-05
+8,10,29,4,Loved the characters.,2024-10-26
+9,65,45,4,Great production quality.,2024-06-03
+10,90,35,4,Really good watch.,2024-01-04
+11,14,50,3,Had some good moments.,2022-07-14
+12,22,42,4,Very engaging.,2024-07-12
+13,97,22,4,Really good watch.,2024-11-30
+14,13,17,4,Loved the characters.,2023-02-11
+15,72,38,4,Very engaging.,2023-05-09
+16,60,50,5,Absolutely loved it!,2024-11-20
+17,62,7,4,Really good watch.,2023-11-09
+18,15,47,4,Great production quality.,2022-11-24
+19,59,14,4,Very engaging.,2024-10-26
+20,13,29,4,Great production quality.,2024-05-28
+21,6,46,5,Masterpiece.,2022-03-25
+22,83,7,2,Didn't enjoy it much.,2022-02-01
+23,67,12,5,Incredible storyline.,2023-10-26
+24,55,30,3,Average but okay.,2023-06-23
+25,24,41,4,Loved the characters.,2024-05-27
+26,26,29,4,Really good watch.,2024-06-27
+27,27,18,4,Loved the characters.,2021-11-17
+28,24,24,5,Absolutely loved it!,2023-10-22
+29,34,43,4,Great production quality.,2023-12-06
+30,77,25,4,Really good watch.,2024-10-07
+31,45,23,4,Great production quality.,2023-10-18
+32,79,38,3,Had some good moments.,2023-11-25
+33,16,16,5,Masterpiece.,2024-01-05
+34,89,10,4,Loved the characters.,2024-04-19
+35,18,37,4,Very engaging.,2024-07-19
+36,82,35,2,Didn't enjoy it much.,2024-11-28
+37,72,11,5,One of the best I've seen!,2024-11-09
+38,41,29,5,Masterpiece.,2024-11-12
+39,2,32,5,Must watch!,2023-02-23
+40,72,33,4,Very engaging.,2024-11-20
+41,54,46,4,Enjoyed it thoroughly.,2024-09-16
+42,11,37,3,Average but okay.,2022-01-03
+43,38,3,5,Masterpiece.,2024-06-04
+44,22,50,4,Very engaging.,2024-10-26
+45,71,33,4,Great production quality.,2023-09-15
+46,100,35,1,Extremely disappointing.,2024-09-26
+47,97,3,3,Could be better.,2024-10-24
+48,28,28,3,Average but okay.,2022-08-30
+49,39,3,5,Absolutely loved it!,2024-09-11
+50,57,8,3,Average but okay.,2024-07-11
+51,95,38,4,Loved the characters.,2024-09-14
+52,81,28,4,Enjoyed it thoroughly.,2023-10-29
+53,27,4,4,Great production quality.,2024-09-21
+54,77,35,4,Great production quality.,2024-02-24
+55,38,37,1,Extremely disappointing.,2024-06-02
+56,87,7,1,Couldn't finish it.,2023-09-16
+57,8,18,3,Average but okay.,2024-11-03
+58,32,10,3,Nothing special.,2024-08-02
+59,63,10,4,Very engaging.,2023-03-21
+60,58,5,4,Great production quality.,2023-07-14
+61,89,24,1,Very boring.,2024-02-21
+62,75,1,3,Nothing special.,2021-12-22
+63,82,43,2,Not recommended.,2023-04-20
+64,51,14,3,Nothing special.,2024-07-24
+65,35,21,4,Loved the characters.,2023-05-27
+66,17,37,3,Decent watch.,2024-02-11
+67,6,7,5,One of the best I've seen!,2024-02-29
+68,57,30,1,Couldn't finish it.,2022-05-09
+69,26,45,2,Too slow paced.,2023-11-04
+70,21,18,3,Had some good moments.,2024-02-25
+71,11,24,5,Masterpiece.,2022-10-05
+72,93,45,4,Really good watch.,2023-02-15
+73,91,7,5,Absolutely loved it!,2023-02-22
+74,17,38,4,Very engaging.,2022-08-30
+75,2,1,4,Really good watch.,2024-09-18
+76,55,45,4,Enjoyed it thoroughly.,2023-03-13
+77,50,6,5,Masterpiece.,2023-03-28
+78,39,9,3,Average but okay.,2024-08-07
+79,83,44,5,Incredible storyline.,2021-12-19
+80,2,40,5,Masterpiece.,2024-08-02
+81,93,14,2,Not recommended.,2022-08-30
+82,88,29,5,Absolutely loved it!,2024-11-24
+83,18,49,4,Very engaging.,2024-03-08
+84,45,28,3,Average but okay.,2022-12-29
+85,36,42,5,Incredible storyline.,2023-05-22
+86,77,47,5,Absolutely loved it!,2024-10-06
+87,85,20,4,Loved the characters.,2023-03-20
+88,25,48,5,Absolutely loved it!,2024-07-06
+89,31,32,5,Must watch!,2024-09-01
+90,82,39,4,Really good watch.,2021-09-09
+91,47,21,4,Loved the characters.,2024-06-28
+92,54,24,3,Nothing special.,2024-04-18
+93,99,5,4,Really good watch.,2024-06-07
+94,34,14,2,Weak storyline.,2022-09-01
+95,65,19,3,Nothing special.,2024-08-27
+96,90,26,4,Loved the characters.,2022-07-29
+97,79,10,5,Absolutely loved it!,2024-03-03
+98,66,14,4,Very engaging.,2022-05-09
+99,76,41,3,Decent watch.,2024-10-06
+100,40,45,3,Average but okay.,2024-02-11
+101,8,16,2,Disappointing.,2022-08-27
+102,59,40,4,Enjoyed it thoroughly.,2024-03-02
+103,16,1,5,Absolutely loved it!,2024-07-29
+104,21,32,4,Great production quality.,2024-07-04
+105,22,24,3,Had some good moments.,2024-08-02
+106,94,8,4,Very engaging.,2023-04-26
+107,35,34,5,Incredible storyline.,2022-10-14
+108,81,5,4,Great production quality.,2024-04-16
+109,8,32,4,Great production quality.,2024-10-26
+110,21,17,2,Disappointing.,2024-03-01
+111,30,48,5,Absolutely loved it!,2024-06-15
+112,32,3,4,Enjoyed it thoroughly.,2024-10-18
+113,23,3,3,Nothing special.,2024-03-18
+114,29,21,4,Great production quality.,2023-11-08
+115,35,5,4,Loved the characters.,2024-03-17
+116,87,4,5,Incredible storyline.,2023-10-31
+117,6,26,2,Too slow paced.,2021-12-21
+118,100,20,5,Must watch!,2023-05-07
+119,2,24,5,Masterpiece.,2023-04-30
+120,95,40,4,Loved the characters.,2024-01-30
+121,64,50,3,Could be better.,2024-01-09
+122,98,16,5,Must watch!,2022-08-31
+123,4,15,4,Really good watch.,2024-01-04
+124,43,1,4,Great production quality.,2024-09-27
+125,14,14,1,Couldn't finish it.,2024-02-11
+126,63,4,3,Decent watch.,2022-07-05
+127,6,15,4,Great production quality.,2024-07-01
+128,59,48,4,Loved the characters.,2024-03-17
+129,18,41,5,Incredible storyline.,2024-07-24
+130,8,28,1,Waste of time.,2024-04-08
+131,38,17,4,Very engaging.,2024-10-29
+132,90,48,4,Great production quality.,2023-04-05
+133,30,5,5,Incredible storyline.,2022-09-27
+134,14,10,5,Must watch!,2021-09-25
+135,41,27,4,Enjoyed it thoroughly.,2024-03-01
+136,58,20,5,Absolutely loved it!,2024-07-27
+137,12,11,3,Could be better.,2024-06-11
+138,6,14,5,One of the best I've seen!,2023-06-04
+139,46,26,5,Masterpiece.,2024-05-17
+140,34,12,1,Couldn't finish it.,2022-08-23
+141,72,48,5,Absolutely loved it!,2023-07-07
+142,18,8,5,One of the best I've seen!,2024-01-11
+143,17,13,4,Really good watch.,2023-08-22
+144,75,38,2,Disappointing.,2022-11-27
+145,3,5,2,Weak storyline.,2022-07-08
+146,17,6,5,Must watch!,2023-04-03
+147,7,11,4,Very engaging.,2024-02-20
+148,64,2,3,Average but okay.,2024-07-18
+149,46,14,5,Must watch!,2023-12-02
+150,20,3,4,Enjoyed it thoroughly.,2024-09-24
