@@ -9,8 +9,8 @@ A relational database project that simulates a Netflix-style OTT (Over-The-Top) 
 ```
 ott-streaming-analytics/
 │
-├── ott_content_dataset_creation.sql   # DDL — creates all tables & ENUM types
-├── sqlqueries.sql                     # Analytical queries (Basic → Intermediate → Advanced)
+├── ott_content_dataset_creation.sql   
+├── sqlqueries.sql                     
 │
 ├── data/
 │   ├── users.csv           (100 records)
@@ -228,10 +228,11 @@ CREATE DATABASE ott_streaming;
 
 ## 🧑‍💻 Author
 
-> Add your name, institution / course name, and submission date here.
+> Vivek Vijaywargiya
 
 ---
 
 ## 📄 License
 
 This project is for educational and portfolio purposes.
+
